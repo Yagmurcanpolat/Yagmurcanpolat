@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Yagmurcanpolat/Yagmurcanpolat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <p align="center">
+  <img src="./Git%20Commit.jpeg" width="100%" alt="Git Commit">
+</p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+Hi! I'm a Software Engineering graduate interested in backend development and data science.
+
+- 🌱 Currently learning and building projects
+- 💻 Interested in backend development
+- 🚀 Exploring new technologies and improving my skills
+- 🎯 Focused on writing clean and maintainable code
+
+<br>
+
+
+
